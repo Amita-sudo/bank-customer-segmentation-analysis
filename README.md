@@ -16,7 +16,7 @@ To analyze simulated banking data and uncover key insights that can help drive s
 
 ## 🛠️ Tools & Technologies
 
-- **PostgreSQL** (via pgAdmin)
+- MySQL
 - SQL (CTEs, Joins, Aggregations, Window Functions)
 - Data Simulation using PostgreSQL functions
 
